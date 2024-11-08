@@ -1,0 +1,3 @@
+Este é um projeto no qual o intuito principal é praticar a dinâmica das animações utilizando CSS, a organização utilizando um método de semântica do CSS e a interatividade e reatividade utilizando o JavaScript.
+Foi um projeto muito legal de se desenvolver, baseado no vídeo do canal "DevClub" no youtube onde eu aprendi sobre a importância de utilizar a boa semântica do CSS para deixar meu código limpo e organizado, além disso aprendi também sobre o papel do JavaScript para realizar a interatividade com os botões e informações da tela.
+Para quem quiser acessar o site e conferir, aqui está o link: https://sahuanp.github.io/Galeria-de-Carros/
